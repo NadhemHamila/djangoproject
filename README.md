@@ -2,7 +2,8 @@
 
 ## Getting started
 
-##You can start running the project with the following commands :
+You can start running the project with the following commands :
+
 1. Clone the repository to your computer.
 2. Activate the virtual enviornment with :
 ```
