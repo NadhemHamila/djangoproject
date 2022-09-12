@@ -1,7 +1,8 @@
 # Coding Challenge frontend
 
 ## Getting started
-**You can start running the project with the following commands :
+
+##You can start running the project with the following commands :
 1. Clone the repository to your computer.
 2. Activate the virtual enviornment with :
 ```
@@ -17,5 +18,5 @@ source venv/bin/activate
 ## Please login with nadhemhamila as a user name and 0000 as a password
 
 - You will find two tabels in scheduler :
-    the first one is for sepcifying the requests and when they should execute 
-    the second one is used in order to properly send requests (we defined two requests a post request to add an individual and a get request toget all individuals in the table)
+    - The first one is for sepcifying the requests and when they should execute 
+    - The second one is used in order to properly send requests (we defined two requests a post request to add an individual and a get request toget all i      individuals in the table)
